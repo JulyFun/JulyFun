@@ -1,2 +1,1 @@
-| <a href="https://github.com/julyfun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=julyfun&show_icons=true&include_all_commits=true&theme=default&hide_border=true&count_private=true" alt="Albert Wang's github stats" /></a> | <a href="https://github.com/julyfun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyfun&layout=compact&theme=default&hide_border=true&count_private=true" /></a> |
-| ------------- | ------------- |
+
