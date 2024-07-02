@@ -1,1 +1,1 @@
-<img src="https://wakatime.com/share/@Julyfun/abfcb53b-7cdc-4c96-b5de-063cc4f70baf.svg" width="33%" class="block"/><img src="https://github-readme-stats.vercel.app/api?username=julyfun" width="33%" class="block"/><img src="https://wakatime.com/share/@Julyfun/a4e0af55-5282-4614-9bec-a476771fc74e.svg" width="33%" class="block"/>
+<img src="https://wakatime.com/share/@Julyfun/abfcb53b-7cdc-4c96-b5de-063cc4f70baf.svg" width="50%" class="block"/><img src="https://github-readme-stats.vercel.app/api?username=julyfun" width="50%" class="block"/>
