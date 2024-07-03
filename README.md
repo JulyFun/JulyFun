@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=julyfun" width="50%" class="block"/><img src="https://wakatime.com/share/@Julyfun/abfcb53b-7cdc-4c96-b5de-063cc4f70baf.svg" width="28.88%" class="block"/>
+<img src="https://github-readme-stats.vercel.app/api?username=julyfun" width="50%" class="block"/><img src="https://wakatime.com/share/@Julyfun/abfcb53b-7cdc-4c96-b5de-063cc4f70baf.svg" width="28.5%" class="block"/>
